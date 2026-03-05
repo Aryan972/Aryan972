@@ -17,6 +17,8 @@ Full-Stack Software Engineer with a strong focus on Frontend Development (React,
 
 ### 🔝 Top Contributed Repo
 https://github.com/Aryan972/collab-canvas
+
+---
 https://github.com/Aryan972/ai-adaptive-vm-placement-patent
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
