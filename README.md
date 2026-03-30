@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="header.png" alt="Abhishek Nigam Header" width="100%">
-</p>
 
 <h1 align="center">Hi, I'm Abhishek Nigam 👋</h1>
 <p align="center">
