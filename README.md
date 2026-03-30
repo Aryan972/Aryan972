@@ -1,50 +1,50 @@
-
 <h1 align="center">Hi, I'm Abhishek Nigam 👋</h1>
 <p align="center">
   <b>Full-Stack Software Engineer | IBM | IIIT Delhi Alumni | U.S. Patent Holder</b>
 </p>
 
-<p align="center">
-  <a href="https://portfolio-self-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://portfolio-self-seven.vercel.app/resume.pdf">
-    <img src="https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
-  </a>
-</p>
-
-<p align="center">
-<details>
-  <summary align="center">📇 <b>Connect With Me (Click to Expand)</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <td><b>LinkedIn</b></td>
-      <td><a href="https://www.linkedin.com/in/abhishek-nigam-8a5643190">abhishek-nigam-8a5643190</a></td>
-    </tr>
-    <tr>
-      <td><b>Portfolio</b></td>
-      <td><a href="https://portfolio-self-seven.vercel.app/">portfolio-self-seven.vercel.app</a></td>
-    </tr>
-    <tr>
-      <td><b>Email</b></td>
-      <td><a href="mailto:nigamabhishek1502@gmail.com">nigamabhishek1502@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td><b>Phone</b></td>
-      <td>+91-9716905836</td>
-    </tr>
-    <tr>
-      <td><b>Resume PDF</b></td>
-      <td><a href="https://portfolio-self-seven.vercel.app/resume.pdf">Download / View</a></td>
-    </tr>
-    <tr>
-      <td><b>LeetCode</b></td>
-      <td><a href="https://leetcode.com/u/Aryan972/">Aryan972</a></td>
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <a href="https://portfolio-self-seven.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://github.com/Aryan972/Aryan972/blob/main/resume.pdf">
+          <img src="https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+        </a>
+      </td>
+      <td style="border: none;">
+        <details translate="no">
+          <summary style="list-style: none;">
+            <img src="https://img.shields.io/badge/Connect_With_Me-28A745?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact">
+          </summary>
+          <br>
+          <table align="center" style="border: 1px solid #ddd;">
+            <tr style="background: transparent;">
+              <td><b>Email</b></td>
+              <td><a href="mailto:nigamabhishek1502@gmail.com">nigamabhishek1502@gmail.com</a></td>
+            </tr>
+            <tr style="background: transparent;">
+              <td><b>Phone</b></td>
+              <td>+91-9716905836</td>
+            </tr>
+            <tr style="background: transparent;">
+              <td><b>LinkedIn</b></td>
+              <td><a href="https://www.linkedin.com/in/abhishek-nigam-8a5643190">abhishek-nigam-8a5643190</a></td>
+            </tr>
+            <tr style="background: transparent;">
+              <td><b>LeetCode</b></td>
+              <td><a href="https://leetcode.com/u/Aryan972/">Aryan972</a></td>
+            </tr>
+          </table>
+        </details>
+      </td>
     </tr>
   </table>
-</details>
-</p>
+</div>
 
 ---
 
@@ -107,7 +107,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <br>
