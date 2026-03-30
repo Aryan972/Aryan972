@@ -12,35 +12,14 @@
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://github.com/Aryan972/Aryan972/blob/main/resume.pdf">
+        <a href="https://portfolio-self-seven.vercel.app/resume.pdf">
           <img src="https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
         </a>
       </td>
       <td style="border: none;">
-        <details translate="no">
-          <summary style="list-style: none;">
-            <img src="https://img.shields.io/badge/Connect_With_Me-28A745?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact">
-          </summary>
-          <br>
-          <table align="center" style="border: 1px solid #ddd;">
-            <tr style="background: transparent;">
-              <td><b>Email</b></td>
-              <td><a href="mailto:nigamabhishek1502@gmail.com">nigamabhishek1502@gmail.com</a></td>
-            </tr>
-            <tr style="background: transparent;">
-              <td><b>Phone</b></td>
-              <td>+91-9716905836</td>
-            </tr>
-            <tr style="background: transparent;">
-              <td><b>LinkedIn</b></td>
-              <td><a href="https://www.linkedin.com/in/abhishek-nigam-8a5643190">abhishek-nigam-8a5643190</a></td>
-            </tr>
-            <tr style="background: transparent;">
-              <td><b>LeetCode</b></td>
-              <td><a href="https://leetcode.com/u/Aryan972/">Aryan972</a></td>
-            </tr>
-          </table>
-        </details>
+        <a href="CONTACT.md">
+          <img src="https://img.shields.io/badge/Connect_With_Me-28A745?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact">
+        </a>
       </td>
     </tr>
   </table>
