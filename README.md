@@ -2,66 +2,78 @@
   <img src="header.png" alt="Abhishek Nigam Header" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Abhishek Nigam 👋</h1>
+<h1 align="center">Hi, I'm Abhishek Nigam 👋</h1>
 <p align="center">
-  <b>Full-Stack Software Engineer | U.S. Patent Holder | GATE Qualifier</b>
+  <b>Full-Stack Software Engineer | IBM | IIIT Delhi Alumni | U.S. Patent Holder</b>
 </p>
 
 <p align="center">
   <a href="https://portfolio-self-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:abhiaryan972@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-28A745?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me">
+  <a href="mailto:nigamabhishek1502@gmail.com">
+    <img src="https://img.shields.io/badge/Connect_With_Me-28A745?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me">
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-I am a **Full-Stack Software Engineer** dedicated to building high-performance, scalable web applications and solving complex algorithmic challenges. With a focus on **Frontend Engineering (Next.js/React)** and experience in **Backend Architecture (Node.js)**, I bridge the gap between stunning UI and robust systems.
+### 👨‍💻 Professional Summary
+**Software Engineer with 2.4+ years of experience** specializing in high-performance frontend systems (React, Next.js) and backend orchestration (Node.js). Currently at **IBM**, I focus on building scalable products and improving system reliability through data-driven engineering.
 
-- 🎓 **GATE Qualified** with a high percentile, demonstrating strong analytical and engineering fundamentals.
-- 💡 **US Patent Filing** for "AI-Adaptive VM Placement" research, reflecting a passion for cloud optimization.
-- 🛠️ Currently focused on **System Design**, **Frontend Performance**, and **Real-time Distributed Services**.
-- 🌟 Active problem solver on **LeetCode**, constantly refining Data Structures & Algorithms expertise.
+- 🚀 **Performance Optimization**: Reduced UI reload latency by **50% (4s to 2s)** and improved daily active usage by **15%** at IBM.
+- 💡 **Cloud Patent**: Filed a **U.S. Patent** for "AI-Driven Adaptive VM Placement" (30-40% cloud resource optimization).
+- 🎓 **Academic Excellence**: **M.Tech CSE** from **IIIT Delhi (8.62 CGPA)**; **AIR 2075** in GATE CSE 2022.
+- 🧠 **Problem Solver**: Solved **350+ LeetCode problems** and active in algorithmic research.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Industrial Experience
 
-| Category | Tools & Technologies |
+#### **Software Engineer @ IBM** (Jan 2024 — Present)
+- Enabled **4x faster VM restart recovery** by optimizing Redux state management and async API handling.
+- Implemented **Redis-backed API caching** with React Query, reducing user-facing downtime by **40%**.
+- Built **RBAC-based conditional rendering** for IBM Power11 using state-driven UI.
+- Automated UI workflows using **Cypress** with API validation and CI/CD, reducing defects by **30%**.
+
+#### **AI/ML Intern @ IIIT Delhi** (Jul 2023 — Dec 2023)
+- Introduced an AI-powered recipe generation system using **GPT-2** with prompt engineering.
+- Fine-tuned GPT-2 using input-conditioned prompts, improving relevance by **60%**.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps & Cloud** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Core Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux) ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css) |
+| **Backend & AI** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?logo=express) ![GPT--2](https://img.shields.io/badge/GPT--2-FF4F8B?logo=openai) ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis) |
+| **DevOps & Cloud** | ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud) ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?logo=ibm) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins) ![Cypress](https://img.shields.io/badge/Cypress-6AA84F?logo=cypress) |
+
+---
+
+### 🏆 Key Projects
+- 🎨 **[Collab Canvas](https://github.com/Aryan972/collab-canvas)**: Event-driven WebSocket architecture processing **1000+ drawing events** per session. Supporting **10+ concurrent users** with room-based isolation.
+- 📊 **[Infra Optimizer](https://github.com/Aryan972/ai-adaptive-vm-placement-patent)**: AI-driven dashboard integrated into **Jenkins CI/CD pipeline** for cloud resource visibility and alerting via Slack webhooks.
+
+---
+
+### 🎖️ Certifications & Honors
+- **Microsoft Certified**: Azure Data Fundamentals (DP-900)
+- **Google Certified**: Google Analytics Professional
+- **GATE CSE 2022**: All India Rank (AIR) 2075
+- **U.S. Patent**: "AI-Driven Adaptive VM Placement" (Patent Filed)
 
 ---
 
 ### 📊 GitHub Insights
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan972&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan972&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan972&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan972&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan972&theme=tokyonight&hide_border=true" alt="Streak Stats" width="97%">
-</p>
-
----
-
-### 🏆 Featured Projects
-- 🎨 **[Collab Canvas](https://github.com/Aryan972/collab-canvas)**: Real-time multiplayer collaborative drawing tool with WebSocket integration.
-- ☁️ **[Infra Optimiser](https://github.com/Aryan972/ai-adaptive-vm-placement-patent)**: AI-driven VM placement system for cloud infrastructure optimization (Patented Research).
-- 📅 **[Meeting Scheduler](https://github.com/Aryan972/next-js)**: A full-stack scheduling application built with Next.js and MongoDB.
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan972&theme=tokyonight&hide_border=true" width="100%">
 </p>
 
 ---
@@ -70,11 +82,11 @@ I am a **Full-Stack Software Engineer** dedicated to building high-performance, 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhishek-nigam-8a5643190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://portfolio-self-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://stackoverflow.com/users/31704805/abhishek-nigam"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-<a href="mailto:abhiaryan972@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:nigamabhishek1502@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://leetcode.com/u/Aryan972/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 <p align="center">
   <br>
-  <i>"Turning complex problems into simple, high-performance user experiences."</i>
+  <i>"Passionate about turning complex system requirements into sleek, high-performance user experiences."</i>
 </p>
