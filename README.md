@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.png" alt="Abhishek Nigam Header" width="100%">
-</p>
-
 <h1 align="center">Hi, I'm Abhishek Nigam 👋</h1>
 <p align="center">
   <b>Full-Stack Software Engineer | IBM | IIIT Delhi Alumni | U.S. Patent Holder</b>
@@ -10,9 +6,6 @@
 <p align="center">
   <a href="https://portfolio-self-seven.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:nigamabhishek1502@gmail.com">
-    <img src="https://img.shields.io/badge/Connect_With_Me-28A745?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me">
   </a>
 </p>
 
@@ -54,7 +47,7 @@
 ---
 
 ### 🏆 Key Projects
-- 🎨 **[Collab Canvas](https://github.com/Aryan972/collab-canvas)**: Event-driven WebSocket architecture processing **1000+ drawing events** per session. Supporting **10+ concurrent users** with room-based isolation.
+- 🎨 **[Collab Canvas](https://github.com/Aryan972/collab-canvas)**: Event-driven WebSocket architecture processing **1000+ drawing events** per session. Supporting **10+ concurrent users** with room-based session isolation.
 - 📊 **[Infra Optimizer](https://github.com/Aryan972/ai-adaptive-vm-placement-patent)**: AI-driven dashboard integrated into **Jenkins CI/CD pipeline** for cloud resource visibility and alerting via Slack webhooks.
 
 ---
@@ -69,21 +62,44 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan972&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan972&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan972&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan972&layout=compact&theme=radical" width="48%">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan972&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan972&theme=radical" width="100%">
 </p>
 
 ---
 
 ### 📫 Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/abhishek-nigam-8a5643190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://portfolio-self-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="mailto:nigamabhishek1502@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://leetcode.com/u/Aryan972/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<details>
+  <summary align="center">📇 <b>Click to View Contact Details</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td><b>LinkedIn</b></td>
+      <td><a href="https://www.linkedin.com/in/abhishek-nigam-8a5643190">abhishek-nigam-8a5643190</a></td>
+    </tr>
+    <tr>
+      <td><b>Portfolio</b></td>
+      <td><a href="https://portfolio-self-seven.vercel.app/">portfolio-self-seven.vercel.app</a></td>
+    </tr>
+    <tr>
+      <td><b>Email</b></td>
+      <td><a href="mailto:nigamabhishek1502@gmail.com">nigamabhishek1502@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td><b>Phone</b></td>
+      <td>+91-9716905836</td>
+    </tr>
+    <tr>
+      <td><b>LeetCode</b></td>
+      <td><a href="https://leetcode.com/u/Aryan972/">Aryan972</a></td>
+    </tr>
+  </table>
+</details>
 </p>
 
 <p align="center">
